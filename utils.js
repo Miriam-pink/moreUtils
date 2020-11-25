@@ -15,3 +15,6 @@ function power(x,y){
 function subtract(x,y){
     return x-y
 }
+function add(a,b){
+    return a +b
+}
